@@ -1,0 +1,4 @@
+name: CKEditor Infobox
+description: 'Provides CKEditor Infobox plugin.'
+type: module
+core: 8.x
